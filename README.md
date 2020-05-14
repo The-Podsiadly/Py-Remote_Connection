@@ -21,6 +21,7 @@ Current list of future additions:
 * Add SSH, SSL, TLS capabilities
 * Create unique IP address for product (or use the hardware's IP)
 * Turn into a Python package
+* Turn into a CLI
 
 If you have any additions you'd like to see, let me know. Contributions is encouraged!
 
